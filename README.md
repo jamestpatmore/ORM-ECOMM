@@ -11,7 +11,7 @@
 ## Description 
 A mySQL database application for an ECommerce backend using express to create the server and Sequelize/mySQL to create the database while still using javascript code on the server side :chess_pawn:
 
-For the video walkthrough explaining the functionality of the application go [here]() :clapper:
+For the video walkthrough explaining the functionality of the application go [here](https://drive.google.com/file/d/1_1xV00b4HIAlkxsodFt5TXF1JA2C-RYx/view) :clapper:
 
 ## User Story 
 ```md 
